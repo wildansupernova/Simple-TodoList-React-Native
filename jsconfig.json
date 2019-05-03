@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "rootDir": "src",
+    "baseUrl": ".",
+    "paths": {
+      "rootSrc/*": ["./rootSrc/*"]
+    }
+  },
+  "include": [
+    "./src/**/*"
+  ],
+}
